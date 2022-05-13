@@ -1,0 +1,13 @@
+HOVER
+https://freefrontend.com/bootstrap-hover-effects/
+https://freefrontend.com/css-hover-effects/
+https://wpdatatables.com/css-image-hover-effects/
+http://www.ioeweb.it/lezioni/css/mega-raccolta-di-effetti-al-hover-di-vario-tipo#
+https://freefrontend.com/css-button-hover-effects/
+
+FOOTER
+https://ordinarycoders.com/blog/article/bootstrap-footers
+https://freefrontend.com/bootstrap-footers/
+
+INPUT
+https://freefrontend.com/css-input-text/
